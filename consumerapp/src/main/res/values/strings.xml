@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="dummy_fullname">Full Name</string>
+    <string name="dummy_username">Username</string>
+</resources>

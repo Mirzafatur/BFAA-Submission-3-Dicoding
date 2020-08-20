@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GithubUserAPI</string>
+    <string name="dummy_fullname">Full name</string>
+    <string name="dummy_username">username</string>
+    <string name="dummy_item">david</string>
+    <string name="search">Search</string>
+    <string name="change_language_setting">Change Language</string>
+    <string name="query_hint">Input Name</string>
+    <string name="dummy_location">Sukabumi, Indonesia</string>
+    <string name="dummy_company">Google, Inc</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="title_bar_detail">Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="alarm">Alarm</string>
+    <string name="snackbar_no_data">No data at this time</string>
+    <string name="setting_alarm">Setting Alarm</string>
+
+    <string name="set_toast_add">Added To Favorite</string>
+    <string name="set_toast_delete">Deleted From Favorite</string>
+
+    <string name="reminder">Alarm at 09.00 AM</string>
+    <string name="notification">notification</string>
+
+    <string name="notification_title">Github User</string>
+    <string name="notification_text">Let\'s find popular user on github!</string>
+
+    <string name="alarm_set">Alarm is set at 09.00 AM</string>
+    <string name="off_alarm_set">Alarm is turned off</string>
+
+    <string name="title">Github User</string>
+    <string name="owner">Mirza Faturrachman</string>
+
+
+    <string name="appwidget_text">Favorite Github User</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">NO DATA</string>
+</resources>

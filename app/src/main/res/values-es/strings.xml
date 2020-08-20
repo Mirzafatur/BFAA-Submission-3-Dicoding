@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserAPI</string>
+    <string name="dummy_fullname">Nombre completo</string>
+    <string name="dummy_username">Nombre de usuario</string>
+    <string name="dummy_item">david</string>
+    <string name="search">Buscar</string>
+    <string name="change_language_setting">Cambiar idioma</string>
+    <string name="query_hint">Nombre de entrada</string>
+    <string name="dummy_location">Sukabumi, Indonesia</string>
+    <string name="dummy_company">Google, Inc</string>
+    <string name="repository">Repositorio</string>
+    <string name="followers">Seguidoras</string>
+    <string name="following">siguiendo</string>
+    <string name="title_bar_detail">Detalle</string>
+    <string name="favorite">Favorito</string>
+    <string name="alarm">Alarma</string>
+    <string name="setting_alarm">Configuración de alarma</string>
+    <string name="snackbar_no_data">No hay datos en este momento</string>
+
+    <string name="set_toast_add">Agregado a favorito</string>
+    <string name="set_toast_delete">Eliminado de favorito</string>
+
+    <string name="reminder">Recordatorio a las 09.00 a. M.</string>
+    <string name="notification">Notificación</string>
+
+    <string name="notification_title">Usuario de Github</string>
+    <string name="notification_text">Busquemos un usuario popular en github!</string>
+
+    <string name="alarm_set">La alarma está configurada a las 09.00 a. M.</string>
+    <string name="off_alarm_set">La alarma está apagada</string>
+
+    <string name="title">Github User</string>
+    <string name="owner">Mirza Faturrachman</string>
+
+    <string name="appwidget_text">Usuario favorito de github</string>
+    <string name="add_widget">agregar widget</string>
+    <string name="empty_text">Sin datos</string>
+</resources>
